@@ -1,6 +1,6 @@
 # Claude Code 源码深度解读
 
-对 [Claude Code](https://github.com/anthropics/claude-code) 开源项目源码的系统性深度解读，共 27 篇文章，覆盖从项目架构到具体实现的完整链路。
+对 Claude Code 源码的系统性深度解读，共 27 篇文章，覆盖从项目架构到具体实现的完整链路。
 
 ## 目录
 
